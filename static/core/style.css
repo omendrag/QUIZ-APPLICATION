@@ -1,0 +1,216 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 0px;
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.3rem;
+
+}
+
+.navbar {
+    margin-top: 0 !important;
+    
+}
+.navbar {
+    background: linear-gradient(90deg, #9641f1, #4281ee); /* Purple → Blue */
+    padding: 12px 24px;
+}
+
+.navbar .navbar-brand {
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+    margin-left: 15px;
+    transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #ffd700 !important; /* Gold hover */
+}
+.hero {
+    background: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #666;
+}
+.card {
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.btn-primary {
+    background: linear-gradient(90deg, #161616, #6a11cb);
+    border: none;
+    border-radius: 25px;
+    padding: 8px 20px;
+    transition: background 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+}
+
+body {
+    background: linear-gradient(120deg, #0f2027, #203a43, #2c5364); /* Dark blue shades */
+    color: #fff;
+    min-height: 100vh;
+}
+/* Background for the whole page */
+body {
+    background: linear-gradient(135deg, #1f1c2c, #928dab);
+    font-family: Arial, sans-serif;
+    color: #fff; /* default text color white */
+    margin: 0;
+    padding: 0;
+}
+
+/* Form container */
+form {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 40px auto;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Labels */
+form label {
+    color: #ffffff; /* make labels white */
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Input fields */
+form input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+    background: #f5f5f5;
+    color: #000; /* input text black */
+}
+
+/* Placeholder text */
+::placeholder {
+    color: #666;
+}
+
+/* Submit button */
+form button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(90deg, #4e54c8, #8f94fb);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+form button:hover {
+    opacity: 0.9;
+}
+/* Background for the whole page */
+body {
+    background: linear-gradient(135deg, #e8e7f0, #928dab);
+    font-family: Arial, sans-serif;
+    color: #fff; /* default text color white */
+    margin: 0;
+    padding: 0;
+}
+
+/* Form container */
+form {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 40px auto;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Labels */
+form label {
+    color: #ffffff; /* make labels white */
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Input fields */
+form input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+    background: #f5f5f5;
+    color: #000; /* input text black */
+}
+
+/* Placeholder text */
+::placeholder {
+    color: #666;
+}
+
+/* Submit button */
+form button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(90deg, #4e54c8, #8f94fb);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+form button:hover {
+    opacity: 0.9;
+}
