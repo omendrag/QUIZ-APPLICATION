@@ -88,4 +88,4 @@ Open a Pull Request
 
 📜 License
 
-This project is licensed under the MIT License – feel free to use and modify it.
+This project is licensed under the Apache License – feel free to use and modify it.
