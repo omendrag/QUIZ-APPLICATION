@@ -20,9 +20,9 @@ The Quiz Application is a simple and interactive platform designed to make learn
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: (Django / Flask / Node.js — update with what you used)
+Backend: Django 
 
-Database: MySQL / SQLite / MongoDB (whichever you used)
+Database: SQLite 
 
 🚀 Getting Started
 1️⃣ Clone the Repository
