@@ -39,7 +39,7 @@ Authentication: Django’s built-in authentication
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/UjasBanke/Quiz_app.git
+git clone https://github.com/omendrag/Quiz_app.git
 cd Quiz_app
 
 2️⃣ Set up virtual environment & install dependencies
